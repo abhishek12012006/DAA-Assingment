@@ -5,8 +5,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhishek12012006/DAA-Assingment/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/abhishek12012006/DAA-Assingment/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhishek12012006/DAA-Assingment/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/abhishek12012006/DAA-Assingment/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
